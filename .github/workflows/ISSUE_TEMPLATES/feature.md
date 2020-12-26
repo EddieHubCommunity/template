@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: To request a feature that would enhance the bot's working
+about: To request a feature that would enhance the project
 title: ''
 labels: enhancement
 assignees: ''
